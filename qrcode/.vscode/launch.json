@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QRCodeFactory",
+            "request": "launch",
+            "mainClass": "com.ycm.eidea.util.QRCodeFactory",
+            "projectName": "qrcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QRCodeUtils",
+            "request": "launch",
+            "mainClass": "com.ycm.eidea.util.QRCodeUtils",
+            "projectName": "qrcode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.ycm.eidea.App",
+            "projectName": "qrcode"
+        }
+    ]
+}
